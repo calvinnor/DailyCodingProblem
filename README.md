@@ -1,4 +1,6 @@
 # Daily Coding Problem
+[![Build Status](https://travis-ci.org/CalvinNor/DailyCodingProblem.svg?branch=master)](https://travis-ci.org/CalvinNor/DailyCodingProblem)
+
 A repository to host and get feedback on my solutions to [Daily Coding Problem](https://www.dailycodingproblem.com/) problems.
 
 Daily Coding Problem is a website for getting daily problems, sourced from the best Software Company interviews like Amazon, Google, Facebook, etc.
